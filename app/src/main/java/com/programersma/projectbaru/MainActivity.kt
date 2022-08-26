@@ -29,5 +29,4 @@ class MainActivity : AppCompatActivity() {
             binding.bebas.text = angkaBerubah.toString()
         }
     }
-//
     }
