@@ -3,6 +3,6 @@
     <string name="tombol1">-</string>
     <string name="tombol2">+</string>
     <string name="text2">tombol  di bawah ini akan menampilkan Toast</string>
-    <string name="text3">tombol di bawah ini akan menampilkan Toast</string>
+    <string name="text3">tombol di bawah ini akan mereset angka di atas</string>
     <string name="button">Toast</string>
 </resources>
