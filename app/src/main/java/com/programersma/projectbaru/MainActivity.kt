@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
 
         binding.button3.setOnClickListener {
             angkaBerubah = 0
+            binding.bebas.text = angkaBerubah.toString()
             Toast.makeText(this@MainActivity,"Anda telah mereset Angka",Toast.LENGTH_LONG).show()
         }
         binding.tombol2.setOnClickListener {
